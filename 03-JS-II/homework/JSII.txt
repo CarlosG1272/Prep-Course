@@ -1,0 +1,6 @@
+JS II 
+"for": Es una secuencia de pasos que se ejecuta repetidas veces, hasta que se rompe la condición
+de verdad de su expresión inicial.
+"&&": Representa una conjunción, significa "y".
+"||": Representa una disyunción, es un conector lógico que significa "O".
+"!": Representa la negación, significa "NO".
