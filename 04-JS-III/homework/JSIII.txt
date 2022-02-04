@@ -1,0 +1,4 @@
+JSIII
+Arrays: Es una lista de elementos ordenados en filas, también es conocido como arreglos
+        y puede contener cualquier tipo de datos, desde strings, numeros, booleanos hasta 
+        otros arreglos y funciones.
