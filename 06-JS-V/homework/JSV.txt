@@ -1,0 +1,9 @@
+JSV
+Prototype: 
+Es como un modelo matriz a partir del cual son creados los objetos, es por eso que los prototipos
+heredan sus propiedades a los objetos que salen de el.
+
+_constructors_(de clases):
+Es una plantilla para la creación de objetos en base a un modelo definido. Se podría decir que 
+una clase  es como algo general y los objetos creados son particulares por los 
+diferentes valores que poseen. 
