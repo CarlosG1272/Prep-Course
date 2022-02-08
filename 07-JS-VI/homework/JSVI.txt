@@ -1,0 +1,3 @@
+JSVI
+Funciones callback: 
+Son funciones que colocamos como argumento de otra función.
