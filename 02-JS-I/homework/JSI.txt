@@ -1,0 +1,23 @@
+JSI
+Variables: 
+Una variable es un contenedor de uno o mas datos para poder usarlo después de forma
+mas simplificada.
+
+Strings: 
+Una string es una cadena de carácteres que representa un texto y para definirlo
+siempre va entre comillas simples o dobles.
+
+Funcion(argumentos, return):
+Una función es una una secuencia de instrucciones que se cumplen al invocarlo, un argumento
+es una variable que recibe una función para que sea usada dentro de esta y return es una 
+sentencia que finaliza la ejecución de la función y devuelve el valor especificado.
+
+Declaraciones if: 
+Es una sentencia de flujo de control que significa "si" y funciona como un condicional,
+pues si el valor que le damos es verdadero ejecutará las instrucciones dentro de el mientras
+que si es falso simplememnte omitirá dichas instrucciones.
+
+Valores booleanos:
+Son valores provenientes de la lógica matemática o lógica proposicional que esta en función
+a un sistema de numeración binario y por ende solo puede tomar 2 valos "0" o "1" en este caso
+"0" es false y "1" es true.

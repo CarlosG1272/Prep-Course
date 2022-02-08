@@ -42,7 +42,7 @@ function suma(x, y) {
 function resta(x, y) {
   // Resta "y" de "x" y devuelve el valor
   // Tu código:
-    var resta2 = y-x 
+    var resta2 = x-y 
     return resta2 
 }
 
@@ -76,7 +76,7 @@ function tienenMismaLongitud(str1, str2) {
   // Devuelve "true" si las dos strings tienen la misma longitud
   // De lo contrario, devuelve "false"
   // Tu código: 
-    if(str1 = str2) {
+    if(str1.length === str2.length) {
       return true
     } else {
       return false
